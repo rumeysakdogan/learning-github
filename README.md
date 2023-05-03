@@ -8,7 +8,7 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
-
+[![Step 0, Start](https://github.com/rumeysakdogan/learning-github/actions/workflows/0-start.yml/badge.svg)](https://github.com/rumeysakdogan/learning-github/actions/workflows/0-start.yml)
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
